@@ -3,5 +3,10 @@ Emoji
 Typing option
 colors
 vibrant
+
 dark mode
 videos
+
+payment option 
+send money
+recive money
